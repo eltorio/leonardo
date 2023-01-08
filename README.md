@@ -18,6 +18,9 @@ Because I need to adapt the Leonardo design to include other functionalities my 
 # Crystal
 16MHz Crystal is not yet selected…
 
+# Schematic
+![Schematic](https://raw.githubusercontent.com/eltorio/master/.github/schematic.png)
+
 # BOM
 [comment]: <> (generated from html bom withhttps://www.convertsimple.com/convert-html-to-markdown/)
 **Component Count:**56
