@@ -48637,7 +48637,7 @@
     (property "Value" "Jumper_2_Open" (id 1) (at 0 -2.286 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "Leonardo_Rev3d:HEADER_2_2.54" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 0 0 0)
