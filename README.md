@@ -22,8 +22,11 @@ Because I need to adapt the Leonardo design to include other functionalities my 
 ![Schematic](https://raw.githubusercontent.com/eltorio/leonardo/main/schematic.png)
 
 # BOM
-[comment]: <> (generated from html bom withhttps://www.convertsimple.com/convert-html-to-markdown/)
-**Component Count:**56
+The [BOM](https://raw.githubusercontent.com/eltorio/leonardo/main/Leonardo_Rev3d.html) was automatically generated with [python/bom.py](https://github.com/eltorio/leonardo/blob/main/python/bom.py) add this script in the BOM dialog.  
+The html BOM was converted to MarkDown with https://www.convertsimple.com/convert-html-to-markdown/   
+
+[comment]: <> (generated from html bom with https://www.convertsimple.com/convert-html-to-markdown/)  
+**Component Count: 56**
 
 | Ref | Qnty | Value | Footprint | Datasheet | Manufacturer | Manufacturer_ref | Digikey_ref |
 | --- | --- | --- | --- | --- | --- | --- | --- |
