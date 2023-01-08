@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Leonardo_Rev3d")(type "KiCad")(uri "${KIPRJMOD}/Leonardo_Rev3d.kicad_sym")(options "")(descr ""))
+  (lib (name "pcf8575")(type "KiCad")(uri "${KIPRJMOD}/symbols/pcf8575.kicad_sym")(options "")(descr ""))
+  (lib (name "usbmicroamphenol")(type "KiCad")(uri "${KIPRJMOD}/symbols/usbmicroamphenol.kicad_sym")(options "")(descr ""))
+)
