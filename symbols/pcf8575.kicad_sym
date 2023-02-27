@@ -6,7 +6,7 @@
     (property "Value" "PCF8575TS{slash}1" (id 1) (at 27.94 7.62 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Leonardo_Rev3d:PCF8575TS" (id 2) (at 27.94 6.096 0)
+    (property "Footprint" "Leonardo_Rev3e:PCF8575TS" (id 2) (at 27.94 6.096 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
