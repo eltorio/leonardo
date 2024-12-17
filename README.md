@@ -25,6 +25,15 @@ Because I need to adapt the Leonardo design to include other functionalities my 
 ![Board](https://github.com/eltorio/leonardo/blob/main/board.png?raw=true)
 The board is adapted and routed with the parts I have selected.  
 Kicad 8 DRC check doesn't show any errors nor any warning.  
+Component references are hidden by default to match the Arduino Leonardo silkscreen. If you need the references, use the [Hide References plugin](https://github.com/joelsa/kicad-hide-references-plugin) which can be easily installed via the Plugin and Content Manager.
+
+# 3D Render
+
+## Without component references
+![Front without component references](https://raw.githubusercontent.com/eltorio/leonardo/main/silkscreen_fixes/board_3d_front.png?raw=true)
+
+## With component references
+![Front with component references](https://raw.githubusercontent.com/eltorio/leonardo/main/silkscreen_fixes/board_3d_front_w_ref.png?raw=true)
 
 # BOM
 The [BOM](https://raw.githubusercontent.com/eltorio/leonardo/main/Leonardo_Rev3e.html) was automatically generated with [python/bom.py](https://github.com/eltorio/leonardo/blob/main/python/bom.py) add this script in the BOM dialog.  
