@@ -620,4 +620,15 @@
 		(solder_mask_margin 0.0508)
 		(uuid "7cc0e44d-01dc-43bf-9ffc-e93c4ae916b8")
 	)
+	(model "${KIPRJMOD}/Leonardo_Rev3e.3dshapes/PinSocket_1x06_P2.54mm_Vertical.step"
+		(offset
+			(xyz 6.46 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
 )

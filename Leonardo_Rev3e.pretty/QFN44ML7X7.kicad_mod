@@ -575,4 +575,15 @@
 		(zone_connect 2)
 		(uuid "c1a87ec4-434a-4055-a2a1-3a2fefc8c70e")
 	)
+	(model "${KIPRJMOD}/Leonardo_Rev3e.3dshapes/QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

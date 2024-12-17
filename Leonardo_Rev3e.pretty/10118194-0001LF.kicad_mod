@@ -278,4 +278,15 @@
 		(remove_unused_layers no)
 		(uuid "abec120e-76e1-4594-9cc1-2c1f990b88d6")
 	)
+	(model "${KIPRJMOD}/Leonardo_Rev3e.3dshapes/USB_Micro-B_Amphenol_10118194-0001LF.stp"
+		(offset
+			(xyz -75 3.08 -0.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )

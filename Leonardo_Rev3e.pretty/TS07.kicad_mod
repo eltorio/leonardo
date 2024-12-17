@@ -346,4 +346,15 @@
 		(solder_mask_margin 0.0508)
 		(uuid "b70014a8-524a-42bf-9a6b-18c26b7d2ef0")
 	)
+	(model "${KIPRJMOD}/Leonardo_Rev3e.3dshapes/Button_TS07.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
 )

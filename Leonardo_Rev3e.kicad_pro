@@ -59,7 +59,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "solder_mask_bridge|117699408|126437037|c3e5a51a-6b46-4f1e-b86b-bf368892e797|ee644d48-8f51-4031-98af-d72ebc672508",
+        "solder_mask_bridge|120061100|82270600|0f36dd89-d025-4fd9-813f-d380f860dfb4|a66cb2d0-c2f3-4d99-9c95-2b61b42a92df",
+        "solder_mask_bridge|173693477|96293745|425d9b35-bbb2-431a-84de-b511a617d863|0fcc76bf-6fe6-4b5f-a233-a93d6bd2dded"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2

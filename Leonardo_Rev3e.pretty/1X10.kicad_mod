@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "11736856-c91d-455e-940a-575fb0bc51aa")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "8af619b3-5aea-4091-b29d-00c306ced544")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,7 +56,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "c0917396-839e-4122-88db-44e477ec6b9f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -983,5 +983,16 @@
 		(remove_unused_layers no)
 		(solder_mask_margin 0.0508)
 		(uuid "4b0cd7f1-c221-4d12-8959-0007e912879f")
+	)
+	(model "${KIPRJMOD}/Leonardo_Rev3e.3dshapes/PinSocket_1x10_P2.54mm_Vertical.step"
+		(offset
+			(xyz 11.46 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
 	)
 )

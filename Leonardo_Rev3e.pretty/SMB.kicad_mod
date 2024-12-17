@@ -184,4 +184,15 @@
 		(solder_mask_margin 0.0508)
 		(uuid "b14a2243-919d-4e1d-8c93-fe67f5cb861c")
 	)
+	(model "${KIPRJMOD}/Leonardo_Rev3e.3dshapes/D_SMB.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

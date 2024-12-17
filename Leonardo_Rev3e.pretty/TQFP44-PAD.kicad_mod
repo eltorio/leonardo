@@ -1036,4 +1036,15 @@
 		(solder_mask_margin 0.0508)
 		(uuid "9b86a095-8046-4b1c-b34a-217848fd1825")
 	)
+	(model "${KIPRJMOD}/Leonardo_Rev3e.3dshapes/TQFP-44_10x10mm_P0.8mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

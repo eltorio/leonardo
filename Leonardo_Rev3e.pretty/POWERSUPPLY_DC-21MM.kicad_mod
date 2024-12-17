@@ -177,4 +177,15 @@
 		(solder_mask_margin 0.0508)
 		(uuid "46b45a8e-0086-4fd1-89ed-f6c08effe2ca")
 	)
+	(model "${KIPRJMOD}/Leonardo_Rev3e.3dshapes/BarrelJack_Horizontal.step"
+		(offset
+			(xyz -0.08 -6.4 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
 )
