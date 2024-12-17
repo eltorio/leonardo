@@ -557,7 +557,6 @@
 			(at 5 4 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "35a39c23-5f98-4178-b32b-5e813f091648")
 			(effects
 				(font
@@ -18907,7 +18906,7 @@
 		(uuid "daa44217-bff8-4dd9-81e5-b4e433b02803")
 		(at 120.56 82.32 180)
 		(property "Reference" "RESET0"
-			(at -6.19 -2.93 270)
+			(at -6.19 -2.93 -90)
 			(layer "F.SilkS")
 			(uuid "48feb70c-5c67-4280-8788-55b419f7296e")
 			(effects
@@ -21376,7 +21375,7 @@
 		)
 	)
 	(gr_text "SCL"
-		(at 133.0071 82.6516 -90)
+		(at 133.0071 82.6516 90)
 		(layer "B.SilkS")
 		(uuid "736fd34f-e576-4f1f-b6bf-9c15486b08a0")
 		(effects
@@ -21385,7 +21384,7 @@
 				(thickness 0.2286)
 				(bold yes)
 			)
-			(justify right mirror)
+			(justify left mirror)
 		)
 	)
 	(gr_text "A9"
@@ -21441,7 +21440,7 @@
 		)
 	)
 	(gr_text "SDA"
-		(at 135.5471 82.6516 -90)
+		(at 135.5471 82.6516 90)
 		(layer "B.SilkS")
 		(uuid "a27a0f79-6d3f-4fda-8a12-801812932b2f")
 		(effects
@@ -21450,7 +21449,7 @@
 				(thickness 0.2286)
 				(bold yes)
 			)
-			(justify right mirror)
+			(justify left mirror)
 		)
 	)
 	(gr_text "original design:\nLeonardo board rev3d © Arduino s.r.l."
