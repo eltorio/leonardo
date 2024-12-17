@@ -30,10 +30,10 @@ Component references are hidden by default to match the Arduino Leonardo silkscr
 # 3D Render
 
 ## Without component references
-![Front without component references](https://raw.githubusercontent.com/eltorio/leonardo/main/silkscreen_fixes/board_3d_front.png?raw=true)
+![Front without component references](https://raw.githubusercontent.com/eltorio/leonardo/main/board_3d_front.png?raw=true)
 
 ## With component references
-![Front with component references](https://raw.githubusercontent.com/eltorio/leonardo/main/silkscreen_fixes/board_3d_front_w_ref.png?raw=true)
+![Front with component references](https://raw.githubusercontent.com/eltorio/leonardo/main/board_3d_front_w_ref.png?raw=true)
 
 # BOM
 The [BOM](https://raw.githubusercontent.com/eltorio/leonardo/main/Leonardo_Rev3e.html) was automatically generated with [python/bom.py](https://github.com/eltorio/leonardo/blob/main/python/bom.py) add this script in the BOM dialog.  
