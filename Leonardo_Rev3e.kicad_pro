@@ -59,7 +59,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "solder_mask_bridge|117699408|126437037|3f6f4abf-c412-4f2b-9aa3-309da0b4191c|c9325827-0c5b-4496-9c9c-66ec6589b3ee",
+        "solder_mask_bridge|120061100|82270600|6e4a3ca8-3004-432d-9e8f-b8feb72c45a1|e5b50060-9467-40a2-b4e9-38929ef6486f",
+        "solder_mask_bridge|173447948|96959912|26c7d260-af13-41b8-a11d-c92f184ec5f0|d6e511dd-d406-43ae-ab91-ec11e868d3b1"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -98,9 +102,9 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "ignore",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -128,7 +132,7 @@
         "min_hole_to_hole": 0.2,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
@@ -558,7 +562,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "fabrication/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
