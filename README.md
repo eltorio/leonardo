@@ -1,6 +1,10 @@
 # Leonardo
 Arduino Leonardo schematic ported to Kicad
 
+# Star the project
+
+**If you appreciate my work, please consider giving it a star! 🤩**
+
 # Kicad 8
 The design has been ported to Kicad 8.  
 * DRC shows no error nor warning on PCB.
